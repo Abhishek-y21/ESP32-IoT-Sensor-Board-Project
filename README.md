@@ -1,8 +1,8 @@
 # ESP32-C3 WROOM-02 Sensor Board
 
 ## 📌 Project Overview
-This project is a custom PCB designed using *KiCad, built around the **ESP32-C3 WROOM-02* module.  
-It is intended for *IoT and sensor-based applications*, supporting battery operation, wireless connectivity, and peripheral interfacing.
+This project is a custom PCB designed using KiCad, built around the ESP32-C3 WROOM-02 module.  
+It is intended for IoT and sensor-based applications, supporting battery operation, wireless connectivity, and peripheral interfacing.
 
 ---
 
@@ -17,18 +17,7 @@ It is intended for *IoT and sensor-based applications*, supporting battery opera
 - *Optional OLED Display* (0.96" I²C module)  
 - *SD Card Socket* (for data logging)  
 
----
 
-## 📂 Project Files
-
-- [📑 Bill of Materials (BOM)](./bom/BOM.csv)  
-- [📘 Schematic (PDF)](./schematic/schematic.pdf)  
-- [🔵 PCB Front View](./images/pcb_front.png)  
-- [🟢 PCB Back View](./images/pcb_back.png)  
-
-(Make sure you keep these files in the correct folders in your repo for the links to work.)
-
----
 
 ## 🚀 Applications
 - IoT Prototyping and Development  
